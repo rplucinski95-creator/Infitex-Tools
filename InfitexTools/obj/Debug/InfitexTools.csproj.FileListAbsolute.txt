@@ -1,0 +1,21 @@
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\bin\Debug\InfitexTools.dll
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\bin\Debug\InfitexTools.pdb
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\bin\Debug\InfitexTools.tlb
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\obj\Debug\InfitexTools.csproj.AssemblyReference.cache
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\obj\Debug\InfitexTools.InfitexTaskPaneControl.resources
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\obj\Debug\InfitexTools.PropertiesForm.resources
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\obj\Debug\InfitexTools.csproj.GenerateResource.cache
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\obj\Debug\InfitexTools.csproj.CoreCompileInputs.cache
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\obj\Debug\InfitexTools.dll
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Test\InfitexTestAddin\obj\Debug\InfitexTools.pdb
+C:\SolidWorksAddins\InfitexTools\InfitexTools.dll
+C:\SolidWorksAddins\InfitexTools\InfitexTools.pdb
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Infitex Tools\InfitexTools\obj\Debug\InfitexTools.csproj.AssemblyReference.cache
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Infitex Tools\InfitexTools\obj\Debug\InfitexTools.InfitexTaskPaneControl.resources
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Infitex Tools\InfitexTools\obj\Debug\InfitexTools.PropertiesForm.resources
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Infitex Tools\InfitexTools\obj\Debug\InfitexTools.csproj.GenerateResource.cache
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Infitex Tools\InfitexTools\obj\Debug\InfitexTools.csproj.CoreCompileInputs.cache
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Infitex Tools\InfitexTools\obj\Debug\InfitexTools.dll
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Infitex Tools\InfitexTools\obj\Debug\InfitexTools.pdb
+C:\SolidWorksAddins\InfitexTools\InfitexTools.tlb
+C:\Users\RafałPluciński\OneDrive - Infitex\07. Visual Studio\01. Projects\04. Infitex Tools\InfitexTools\obj\Debug\InfitexTools.UI.PropertiesFormV2.resources
